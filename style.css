@@ -2,10 +2,19 @@
   text-align: center;
 }
 .bold{
-  color: black;
+  font-weight: bold;
   font-family: cursive;
   font-family: Arial;
 }
 .uppercase{
   text-transform: uppercase;
+}
+.large{
+  font-size: 20px;
+}
+.gray{
+  color: charcoal gray;
+}
+.title{
+  color: black;
 }
