@@ -1,3 +1,14 @@
 p {
   color: blue;
 }
+.center{
+  text-align: center;
+}
+.bold{
+  color: black;
+  font-family: cursive;
+  font-family: Arial;
+}
+.uppercase{
+  text-transform: uppercase;
+}
