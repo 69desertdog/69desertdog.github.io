@@ -9,8 +9,8 @@
 .uppercase{
   text-transform: uppercase;
 }
-.x-large{
-  font-size: x-large;
+.large{
+  font-size: 150%;
 }
 .gray{
   color: charcoal gray;
