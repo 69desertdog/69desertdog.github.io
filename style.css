@@ -12,12 +12,12 @@
 .large{
   font-size: 150%;
 }
-.gray{
-  color: charcoal gray;
-}
+
+
 .title{
   color: black;
 }
-p, h3{
-  font-family: Comic Sans;
+p, h4{
+  font-family: Arial;
+  !important;
 }
